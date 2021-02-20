@@ -1,6 +1,6 @@
 # Push frontend
-npm run build;
 cd /Users/manoj/Desktop/Projects/msk-coders/msk-coders-frontend;
+npm run build;
 sh push.sh;
 
 # Push backend
